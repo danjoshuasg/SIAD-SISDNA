@@ -23,6 +23,7 @@ SIAD-SISDNA es una aplicación de escritorio desarrollada en Python diseñada pa
 - Selenium
 - pandas
 - requests
+- webdriver_manager
 
 ## Instalación
 [Instrucciones de instalación detalladas aquí]
